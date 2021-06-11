@@ -1,0 +1,2 @@
+# airbnbanalysis
+AirBnB has been growing fast in the recent years, offering property owners the possibility to earn extra income, by letting their properties (mostly short term), without having to go over the overwhelming procedures of establishing a hosting business, or having the comitment to run it permanently. In this project, it is aimed to analyse the AirBnB Dataset in Boston, USA from the host's perspective.
