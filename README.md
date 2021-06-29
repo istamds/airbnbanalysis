@@ -37,6 +37,11 @@ More information regarding the dataset can be found in [Kaggle](https://www.kagg
 ## Results
 The findings of the code can be found at the post available here.
 
+##Medium Article
+The findings of the analysis are also presented as a article for non technical audience. The article can be found on the following link:
+https://medium.com/@ioannis.stamatakis/make-the-most-out-of-your-hosting-business-in-boston-ma-bb5152e35281
+
+
 ### Licensing, Authors and Acknowledgements
 The jupyter notebook provided, is free to be used as needed!
 The datasets are provided under the [Creative Commons CC0 1.0 Universal (CC0 1.0) "Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/) Licence.
