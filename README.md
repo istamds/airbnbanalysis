@@ -20,10 +20,12 @@ The full set of files related to this project are provided by AirBnB and [Kaggle
 ## Installation
 In order to be able to run the code, the following python libraries are required:
 * pandas
+* geopandas
 * numpy
 * sklearn
 * plotly
 * matplotlib
+* folium
 
 ## File Descriptions
 There is one notebooks provided here to demonstrate the suggested approach to answer the above questions. The notebook consists of a first part regarding data exploration and cleansing, so as the datasets can be used for the further analysis. As next, we try to answer the three questions using the pandas library, explanatory graphs and statistical modelling.  
@@ -35,12 +37,12 @@ The datasets used are:
 More information regarding the dataset can be found in [Kaggle](https://www.kaggle.com/airbnb/boston).
 
 ## Results
-The findings of the code can be found at the post available here.
+The results of the analysis showed that the prices are at their lowest during the first months of the year and start increasing from April on reaching their maximum in September and October at 237 dollars. Then, they start dropping again moving towards the end of the year.
+The neighborhood that produces the highest income on average is Beacon Hill, followed by East Boston, Jamaica Plan and Charlestown. 
+The lasso regression model applied to predict the price of a property based on its given attributes, did not produce a highly accurate prediction. However, lasso regression is a useful tool to also do feature selection. Based on that the top attributes that help in achieving a higher price for a listing are the number of bedrooms, providing the entire property over a single room, number of bathrooms and people that can be accommodated. Some amenities that have a greate impact on price are the air conditioning, indoor fireplace and the doorman.
 
-##Medium Article
 The findings of the analysis are also presented as a article for non technical audience. The article can be found on the following link:
 https://medium.com/@ioannis.stamatakis/make-the-most-out-of-your-hosting-business-in-boston-ma-bb5152e35281
-
 
 ### Licensing, Authors and Acknowledgements
 The jupyter notebook provided, is free to be used as needed!
